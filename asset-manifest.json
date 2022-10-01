@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Atelier/static/css/main.3168dfb4.css",
-    "main.js": "/Atelier/static/js/main.9fd1d0bf.js",
+    "main.css": "/Atelier/static/css/main.e3be8e22.css",
+    "main.js": "/Atelier/static/js/main.a8f2a445.js",
     "static/media/header-bg.jpg": "/Atelier/static/media/header-bg.9cef81697cc1280d861c.jpg",
     "static/media/intro.jpg": "/Atelier/static/media/intro.1af0e4d928235f4d10f6.jpg",
     "static/media/template1.png": "/Atelier/static/media/template1.0c3ed189a2cc281803cd.png",
@@ -30,11 +30,11 @@
     "static/media/template21.png": "/Atelier/static/media/template21.43fd32c6906a41f68815.png",
     "static/media/template13.png": "/Atelier/static/media/template13.6052d0f4ec1f48a0532d.png",
     "index.html": "/Atelier/index.html",
-    "main.3168dfb4.css.map": "/Atelier/static/css/main.3168dfb4.css.map",
-    "main.9fd1d0bf.js.map": "/Atelier/static/js/main.9fd1d0bf.js.map"
+    "main.e3be8e22.css.map": "/Atelier/static/css/main.e3be8e22.css.map",
+    "main.a8f2a445.js.map": "/Atelier/static/js/main.a8f2a445.js.map"
   },
   "entrypoints": [
-    "static/css/main.3168dfb4.css",
-    "static/js/main.9fd1d0bf.js"
+    "static/css/main.e3be8e22.css",
+    "static/js/main.a8f2a445.js"
   ]
 }
