@@ -5,7 +5,7 @@ function Intro() {
   return (
 	 <div className='app__intro section__padding'>
       <div className="app__intro-img">
-        <img src={images.intro} alt="intro" />
+        {/* <img src={images.intro} alt="intro" /> */}
       </div>
    </div>
   )

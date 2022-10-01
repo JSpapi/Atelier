@@ -15,19 +15,19 @@ function Navbar() {
 
           <ul className="app__navbar-list">
             <li className="app__navbar-list_item">
-              <a href="#!">Overview</a>
+              <a href="#header">Overview</a>
             </li>
             <li className="app__navbar-list_item">
-              <a href="#!">Pages</a>
+              <a href="#template">Pages</a>
             </li>
             <li className="app__navbar-list_item">
-              <a href="#!">Portfolio</a>
+              <a href="#services">Portfolio</a>
             </li>
             <li className="app__navbar-list_item">
               <a href="#!">Template</a>
             </li>
             <li className="app__navbar-list_item">
-              <a href="#!">Contact</a>
+              <a href="#footer">Contact</a>
             </li>
           </ul>
 
@@ -47,21 +47,21 @@ function Navbar() {
 
                 <VscClose className='close__overlay'  onClick={() => setToggleMenu(false)} />
 
-                <ul className="app__navbar-smallscreen_list">
-                  <li className="app__navbar-list_item">
-                    <a href="#!">Overview</a>
+                <ul  className="app__navbar-smallscreen_list">
+                  <li onClick={() => setToggleMenu(false)} className="app__navbar-list_item">
+                    <a href="#header">Overview</a>
                   </li>
-                  <li className="app__navbar-list_item">
-                    <a href="#!">Pages</a>
+                  <li onClick={() => setToggleMenu(false)} className="app__navbar-list_item">
+                    <a href="#template">Pages</a>
                   </li>
-                  <li className="app__navbar-list_item">
-                    <a href="#!">Portfolio</a>
+                  <li onClick={() => setToggleMenu(false)} className="app__navbar-list_item">
+                    <a href="#services">Portfolio</a>
                   </li>
-                  <li className="app__navbar-list_item">
+                  <li onClick={() => setToggleMenu(false)} className="app__navbar-list_item">
                     <a href="#!">Template</a>
                   </li>
-                  <li className="app__navbar-list_item">
-                    <a href="#!">Contact</a>
+                  <li onClick={() => setToggleMenu(false)} className="app__navbar-list_item">
+                    <a href="#footer">Contact</a>
                   </li>
                 </ul>
               </div>

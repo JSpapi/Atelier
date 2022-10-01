@@ -1,7 +1,30 @@
 .app__intro{
 	width: 100%;
+	&-img{
+		width: 100%;
+		height: 80vh;
+		background: url('../../assets/images/intro.jpg') no-repeat center / cover;
+	}
 
 	img{
 		width: 100%;
+	}
+}
+
+@media screen and (max-width: 992px){
+	.app__intro-img{
+		height: 60vh;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.app__intro-img{
+		height: 50vh;
+	}
+}
+
+@media screen and (max-width: 520px){
+	.app__intro-img{
+		height: 30vh;
 	}
 }

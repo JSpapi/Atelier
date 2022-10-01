@@ -7,7 +7,7 @@ import "./Footer.scss";
 
 
 function Footer() {
-  return <div className="app__footer">
+  return <div className="app__footer" id="footer">
     <div className="app__container">
       <SubscribeTitle/>
       <SubscribeForm/>

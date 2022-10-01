@@ -5,7 +5,7 @@ import './OurServices.scss';
 
 function OurServices() {
   return (
-	 <div className='app__ourServices text-center'>
+	 <div className='app__ourServices text-center' id='services'>
     <Heading heading="Our Services" subheading="Our Core Features"/>
 
     <div className="app__container">

@@ -5,7 +5,7 @@ import './Template.scss';
 function Template() {
 
   return (
-    <div className="app__template text-center">
+    <div className="app__template text-center" id='template'>
       <Heading heading="Template Pages" subheading="Our Core Layouts"/>
       <div className='app__container'>
         <div className='section__padding'>

@@ -40,7 +40,7 @@ function Header() {
   },[])
   
   return (
-    <div className="app__header">
+    <div className="app__header" id="header">
       <div className="app__header-overlay">
         <div className="app__header-content">
           <h3 className="app__subheading" style={{ color: "#FFAE2B" }}>
