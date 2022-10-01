@@ -1,0 +1,9 @@
+.app__main-heading{
+	padding-top: 60px;
+}
+
+@media screen and (max-width: 768px){
+	.app__main-heading{
+		padding-top: 20px;
+	};
+}

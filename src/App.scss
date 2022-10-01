@@ -1,0 +1,95 @@
+@import 'animate.css';
+@import '~loaders.css/src/animations/pacman.scss';
+// .App{
+// 	color: var(--dark);
+// 	height: 100vh;
+// 	width: 100%;
+// 	z-index: 9999;
+// }
+
+.app__subheading{
+	font-family: 'Old Standard TT', sans-serif;
+	font-size: 12px;
+	line-height: 22px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+
+	color: var(--dark);
+
+	margin-bottom: 10px;
+
+}
+
+.app__heading{
+	font-family: 'Old Standard TT', sans-serif;
+	font-size: 60px;
+	line-height: 70px;
+	font-weight: 400;
+
+	color: var(--orange);
+}
+
+.custom__btn{
+	font-family: 'Old Standard TT', sans-serif;
+	font-size: 11px;
+	line-height: 22px;
+	font-weight: 400;
+	text-transform: uppercase;
+
+	padding: 14px 24px;
+
+	background: var(--orange);
+	color: var(--black);
+	
+	cursor: pointer;
+	display: inline-flex;
+}
+
+.app__container{
+	max-width: 1140px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+.section__padding{
+	padding: 60px 0;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.dash{
+	border: 1px solid var(--border-color);
+	margin-bottom: 21px;
+}
+
+.loader-active{
+	display: block;
+
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	overflow: hidden;
+
+	width: 100%;
+	height: 100%;
+	animation: fadeOut 1s 1s;
+	animation-fill-mode: forwards;
+	background: #022c43;
+	.pacman{
+		top: 10%;
+		left: 50%;
+		transform: translateY(-50%);
+	}
+}
+
+@media screen and (max-width: 768px){
+	.section__padding{
+		padding: 20px 0;
+	}
+
+}

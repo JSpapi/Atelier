@@ -1,0 +1,19 @@
+.app__template-items{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+// !small screen
+@media screen and (max-width: 600px){
+	.app__template-items{
+		flex-direction: column;
+		align-items: center;
+	}
+}
+@media screen and (max-width: 992px){
+	.app__template-items{
+		justify-content: center;
+	}
+}

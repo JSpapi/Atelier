@@ -1,0 +1,29 @@
+.app__footer-subscribeTitle_title{
+	font-weight: 400;
+	font-size: 60px;
+	line-height: 70px;
+
+	color: var(--orange);
+
+}
+
+
+.app__footer-subscribeTitle_text{
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 28px;
+
+	color: var(--dark);
+
+	margin-top: 20px;
+}
+
+@media screen and (max-width: 576px){
+	.app__footer-subscribeTitle_title{
+		font-size: 50px;
+	}
+
+	.app__footer-subscribeTitle_text{
+		margin-top: 10px;
+	}
+}
