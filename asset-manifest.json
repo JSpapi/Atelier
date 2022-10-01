@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Atelier/static/css/main.3168dfb4.css",
+    "main.js": "/Atelier/static/js/main.9fd1d0bf.js",
+    "static/media/header-bg.jpg": "/Atelier/static/media/header-bg.9cef81697cc1280d861c.jpg",
+    "static/media/intro.jpg": "/Atelier/static/media/intro.1af0e4d928235f4d10f6.jpg",
+    "static/media/template1.png": "/Atelier/static/media/template1.0c3ed189a2cc281803cd.png",
+    "static/media/instagram3.jpg": "/Atelier/static/media/instagram3.b69e82c1c9fb4c1ebd60.jpg",
+    "static/media/instagram2.jpg": "/Atelier/static/media/instagram2.e07ee722dcf1de8537c0.jpg",
+    "static/media/template3.png": "/Atelier/static/media/template3.749e82d7ff9cba9f1759.png",
+    "static/media/template18.png": "/Atelier/static/media/template18.bccf43b4647801b19c63.png",
+    "static/media/template14.png": "/Atelier/static/media/template14.f5dd1cb3f30b0aa8458d.png",
+    "static/media/template2.png": "/Atelier/static/media/template2.4b6c3694bc287ecab1b7.png",
+    "static/media/template6.png": "/Atelier/static/media/template6.5813511a69611fd1cec1.png",
+    "static/media/instagram1.jpg": "/Atelier/static/media/instagram1.495db72dd767594713c7.jpg",
+    "static/media/template4.png": "/Atelier/static/media/template4.00ce5214c9a287a0c18b.png",
+    "static/media/template15.png": "/Atelier/static/media/template15.4c057a01947da7ad7e31.png",
+    "static/media/template16.png": "/Atelier/static/media/template16.64b8ec9815a660a43ac4.png",
+    "static/media/template7.png": "/Atelier/static/media/template7.64b8ec9815a660a43ac4.png",
+    "static/media/template5.png": "/Atelier/static/media/template5.074d3497be92ce2fa670.png",
+    "static/media/template9.png": "/Atelier/static/media/template9.72d143b534c7ff333ed5.png",
+    "static/media/template8.png": "/Atelier/static/media/template8.086237d1b36e3208efc2.png",
+    "static/media/instagram4.jpg": "/Atelier/static/media/instagram4.fa0648020576007bd87e.jpg",
+    "static/media/template17.png": "/Atelier/static/media/template17.7bb7fe922b294cf88a6a.png",
+    "static/media/template10.png": "/Atelier/static/media/template10.ca2b83b479c3ff7f9e32.png",
+    "static/media/template11.png": "/Atelier/static/media/template11.1f7ef6a221f8a49a55d1.png",
+    "static/media/template19.png": "/Atelier/static/media/template19.2356d2ecd26c2733dea7.png",
+    "static/media/template12.png": "/Atelier/static/media/template12.7971a0ad58881ca95dfa.png",
+    "static/media/template20.png": "/Atelier/static/media/template20.b559a859c2307b07fde8.png",
+    "static/media/template21.png": "/Atelier/static/media/template21.43fd32c6906a41f68815.png",
+    "static/media/template13.png": "/Atelier/static/media/template13.6052d0f4ec1f48a0532d.png",
+    "index.html": "/Atelier/index.html",
+    "main.3168dfb4.css.map": "/Atelier/static/css/main.3168dfb4.css.map",
+    "main.9fd1d0bf.js.map": "/Atelier/static/js/main.9fd1d0bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3168dfb4.css",
+    "static/js/main.9fd1d0bf.js"
+  ]
+}
